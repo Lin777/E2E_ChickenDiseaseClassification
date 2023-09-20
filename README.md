@@ -26,3 +26,7 @@ DVC Documentation: https://dvc.org/doc
 dvc init 
 dvc repro
 dvc dag
+
+## Create ECR repo to store/save docker image
+
+- Save the URI: 897355504670.dkr.ecr.eu-north-1.amazonaws.com/chicken
